@@ -16,5 +16,6 @@
 В колонке задач ссылка на задачу на сайте, в колонке оценок ссылка на решению в репозитории.
 | Задача | Оценка |
 | ------ | ---------- |
+| [3753](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3753#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3753.py) |
 | [3754](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3754#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3754.py) |
 | [3755](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3755#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3755.py) |
