@@ -16,4 +16,5 @@
 <br>
 | Задача | Оценка |
 |:------:|:------:|
-|||
+|[3754](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3754#1)|[OK|100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3754.py)|
+|[3755](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3755#1)|[OK|100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3755.py)|
