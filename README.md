@@ -4,7 +4,7 @@
 
 ## Сотрудничество 
 Для ошибок и оптимальности решений: [issues](https://github.com/Mollior/informatics-msk/issues)
-Предложить своё решение к задачи: [pull requests](https://github.com/Mollior/informatics-msk/pulls)
+Предложить своё решение к задачи: [pull requests](https://github.com/Mollior/informatics-msk/pulls). <br>
 Если вы являетесь автором кода и не хотите, чтобы он распространялся в этом репозитории — свяжитесь со мной.
 
 ## Автор
@@ -14,8 +14,9 @@
 [:diamond_shape_with_a_dot_inside: VK](https://vk.com/id344397777) <br>
 
 ## Решения
-В колонке задач ссылка на задачу на сайте, в колонке оценок ссылка на решению в репозитории.
-Последнее обновление 20:25 01.05.2023
+В колонке задач ссылка на задачу на сайте, в колонке оценок ссылка на решению в репозитории. <br>
+**PS — partial solution (частичное решение); NS — not solved**<br>
+Последнее обновление 21:41 01.05.2023
 | Задача | Оценка |
 | ------ | ---------- |
 | Д.П. Кириенко |  |
@@ -40,4 +41,8 @@
 | [K 3759](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3759#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/K.py) |
 | [L 3760](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3760#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/L.py) |
 | [M 3761](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3761#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/M.py) |
+| [N 3762](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3762#1) | [PS/7](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/N.py) |
+| [O 3763](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3763#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/O.py) |
+| [P 3764](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3764#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/P.py) |
+
 
