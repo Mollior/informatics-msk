@@ -15,9 +15,10 @@
 
 ## Решения
 В колонке задач ссылка на задачу на сайте, в колонке оценок ссылка на решению в репозитории.
+Последнее обновление 20:25 01.05.2023
 | Задача | Оценка |
 | ------ | ---------- |
-| Д.П. Кириенко |  |20:11 01.05.2023
+| Д.П. Кириенко |  |
 | Тема 1 |  |
 | [A 3443](https://informatics.msk.ru/mod/statements/view.php?id=3290&chapterid=3443#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%201/A.py) |
 | [B 3444](https://informatics.msk.ru/mod/statements/view.php?id=3290&chapterid=3444#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%201/B.py) |
@@ -37,4 +38,6 @@
 | [I 3757](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3757#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/I.py) |
 | [J 3758](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3758#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/J.py) |
 | [K 3759](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3759#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/K.py) |
+| [L 3760](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3760#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/L.py) |
+| [M 3761](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3761#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/M.py) |
 
