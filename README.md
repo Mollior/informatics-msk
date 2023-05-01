@@ -21,10 +21,13 @@
 | [3444](https://informatics.msk.ru/mod/statements/view.php?id=3290&chapterid=3444#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3444.py) |
 | [3445](https://informatics.msk.ru/mod/statements/view.php?id=3290&chapterid=3445#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3445.py) |
 | [3446](https://informatics.msk.ru/mod/statements/view.php?id=3290&chapterid=3446#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3446.py) |
-| [3749](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3749#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3749.py) |
-| [3750](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3750#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3750.py) |
-| [3751](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3751#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3751.py) |
-| [3752](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3752#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3752.py) |
-| [3753](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3753#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3753.py) |
-| [3754](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3754#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3754.py) |
-| [3755](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3755#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/solutions/3755.py) |
+| [A 3749](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3749#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/A.py) |
+| [B 3750](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3750#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/B.py) |
+| [C 3751](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3751#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/C.py) |
+| [D 3752](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3752#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/D.py) |
+| [E 3753](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3753#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/E.py) |
+| [F 3754](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3754#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/F.py) |
+| [G 3755](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3755#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/G.py) |
+| [H 3755](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3755#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/H.py) |
+| [I 3755](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3755#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/I.py) |
+
