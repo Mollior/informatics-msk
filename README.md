@@ -11,10 +11,10 @@
 **Связаться со мной:**<br>
 [:airplane: Telegram](https://t.me/mollior) <br>
 [:e-mail: e-mail](mailto:maxi.efrem@yandex.ru) <br>
-[:diamond_shape_with_a_dot_inside: VK](https://vk.com/id344397777) <br>
+[:diamond_shape_with_a_dot_inside: VK](https://vk.com/id344397777)<br>
 
 ## Решения
-В колонке задач ссылка на задачу на сайте, в колонке оценок ссылка на решению в репозитории.<br>
+В колонке задач ссылка на задачу на сайте, в колонке оценок ссылка на решению в репозитории.<br> 
 **PS — partial solution (частичное решение); NS — not solved**<br>
 Последнее обновление 21:41 01.05.2023
 | Задача | Оценка |
