@@ -4,7 +4,7 @@
 
 ## Сотрудничество 
 Для ошибок и предложения оптимальных решений: [issues](https://github.com/Mollior/informatics-msk/issues)
-Предложить своё решение к задачи: [pull requests](https://github.com/Mollior/informatics-msk/pulls)
+Предложить своё решение к задачи: [pull requests](https://github.com/Mollior/informatics-msk/pulls).
 Если вы являетесь автором кода и не хотите, чтобы он распространялся в этом репозитории — свяжитесь со мной.
 
 ## Автор
