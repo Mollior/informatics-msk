@@ -33,4 +33,5 @@
 | [H 3756](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3756#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/H.py) |
 | [I 3757](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3757#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/I.py) |
 | [J 3758](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3758#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/J.py) |
+| [K 3759](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3759#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/K.py) |
 
