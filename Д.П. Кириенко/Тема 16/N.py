@@ -1,21 +1,22 @@
-f = input().split()
-
-wc = {}
-
-for x in f:
-    if x in wc:
-        wc[x] += 1
+f = open("input.txt", "r")
+s = f.read()
+word_dict = dict()
+words_ls = list(s.strip().split())
+word_set = set(words_ls)
+max_occur = 0
+max_words = []
+for i in range(len(words_ls)):
+    if words_ls[i] in word_dict:
+        word_dict[words_ls[i]] += 1
+        if word_dict[words_ls[i]] > max_occur:
+            max_occur = word_dict[words_ls[i]]
     else:
-        wc[x] = 1
-maxc = 0
-maxw = []
-for w, c in wc.items():
-    if c > maxc:
-        maxc = c
-        maxw = [w]
-    elif c == maxc:
-        maxw.append(w)
-maxw.sort()
-print(maxw[0])
-#wc_sort = dict(sorted(wc.items()))
-#print(max(wc_sort, key=wc_sort.get))
+        word_dict[words_ls[i]] = 1
+        if 1 > max_occur:
+            max_occur = 1
+
+for i in word_set:
+    if word_dict[i] == max_occur:
+        max_words.append(i)
+
+print(min(max_words))
