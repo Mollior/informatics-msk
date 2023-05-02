@@ -10,13 +10,11 @@
 ## Автор
 **Связаться со мной:**<br>
 [:airplane: Telegram](https://t.me/mollior) <br>
-[:e-mail: e-mail](mailto:maxi.efrem@yandex.ru) <br>
-[:diamond_shape_with_a_dot_inside: VK](https://vk.com/id344397777)<br>
 
 ## Решения
 В колонке задач ссылка на задачу на сайте, в колонке оценок ссылка на решению в репозитории.<br> 
 **PS — partial solution (частичное решение); NS — not solved**<br>
-Последнее обновление 20:28 02.05.2023
+Последнее обновление 22:38 02.05.2023
 | Задача | Оценка |
 | ------ | ---------- |
 | Д.П. Кириенко |  |
@@ -48,5 +46,8 @@
 | [R 3766](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3766#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/R.py) |
 | [S 3767](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3767#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/S.py) |
 | [T 3768](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3768#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/T.py) |
+| [U 3769](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3769#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/U.py) |
+| [V 3770](https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3770#1) | [OK/100](https://github.com/Mollior/informatics-msk/blob/main/%D0%94.%D0%9F.%20%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE/%D0%A2%D0%B5%D0%BC%D0%B0%2016/V.py) |
+
 
 
